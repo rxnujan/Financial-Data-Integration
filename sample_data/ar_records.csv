@@ -1,0 +1,12 @@
+invoice_id,customer_name,amount,currency,due_date,status,created_at
+INV-001,Infosys Ltd,45000.00,INR,2024-03-15,pending,2024-02-15
+INV-002,TCS Corporation,120000.00,INR,2024-03-20,paid,2024-02-20
+INV-003,Wipro Technologies,85000.00,INR,2024-03-25,pending,2024-02-25
+INV-004,,32000.00,INR,2024-04-01,pending,2024-03-01
+INV-005,HCL Technologies,97500.00,USD,2024-04-05,overdue,2024-03-05
+INV-006,Accenture India,210000.00,INR,2024-04-10,paid,2024-03-10
+INV-007,Cognizant,78000.00,INR,2024-04-12,pending,2024-03-12
+INV-008,Tech Mahindra,-5000.00,INR,2024-04-15,pending,2024-03-15
+INV-002,TCS Corporation,120000.00,INR,2024-03-20,paid,2024-02-20
+INV-009,Mphasis Ltd,56000.00,INR,2024-04-20,pending,2024-03-20
+INV-010,Mindtree Ltd,43000.00,INR,2024-04-22,paid,2024-03-22

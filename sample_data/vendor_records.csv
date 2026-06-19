@@ -1,0 +1,9 @@
+vendor_id,vendor_name,contact_email,phone,payment_terms,currency,active
+VEN-001,AWS India Pvt Ltd,billing@aws.in,+91-9876543210,NET30,INR,true
+VEN-002,Google Cloud India,invoices@google.in,+91-9876543211,NET15,INR,true
+VEN-003,Microsoft Azure,azure-billing@microsoft.com,+91-9876543212,NET30,USD,true
+VEN-004,,contact@zoho.com,+91-9876543213,NET30,INR,true
+VEN-005,Razorpay,finance@razorpay.com,,NET15,INR,true
+VEN-006,Freshworks,billing@freshworks.com,+91-9876543215,NET30,INR,false
+VEN-003,Microsoft Azure,azure-billing@microsoft.com,+91-9876543212,NET30,USD,true
+VEN-007,Tally Solutions,accounts@tally.in,+91-9876543216,NET45,INR,true

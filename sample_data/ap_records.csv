@@ -1,0 +1,11 @@
+bill_id,vendor_name,amount,currency,due_date,payment_status,created_at
+BILL-001,AWS India Pvt Ltd,15000.00,INR,2024-03-10,pending,2024-02-10
+BILL-002,Google Cloud India,28000.00,INR,2024-03-15,paid,2024-02-15
+BILL-003,Microsoft Azure,42000.00,INR,2024-03-20,pending,2024-02-20
+BILL-004,,9500.00,INR,2024-03-25,pending,2024-02-25
+BILL-005,Zoho Corporation,6000.00,INR,2024-03-28,paid,2024-02-28
+BILL-006,Razorpay,3200.00,USD,2024-04-02,overdue,2024-03-02
+BILL-007,Freshworks,-1000.00,INR,2024-04-05,pending,2024-03-05
+BILL-002,Google Cloud India,28000.00,INR,2024-03-15,paid,2024-02-15
+BILL-008,Tally Solutions,12000.00,INR,2024-04-10,paid,2024-03-10
+BILL-009,Slack Technologies,8500.00,INR,2024-04-15,pending,2024-03-15
